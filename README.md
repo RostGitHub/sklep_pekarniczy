@@ -1,1 +1,1 @@
-# slep_pekarniczy
+# sklep_pekarniczy
